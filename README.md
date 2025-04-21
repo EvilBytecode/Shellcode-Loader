@@ -47,3 +47,7 @@ This script showcases how PowerShell can be used for both offensive (shellcode i
 ![image](https://github.com/EvilBytecode/Shellcode-Loader/assets/151552809/2b56a290-d287-4289-a8fb-1b1df11e084e)
 
 
+
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
