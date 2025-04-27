@@ -1,5 +1,6 @@
 ### Overview
-
+## Telegram:
+- https://t.me/ebytelabs
 This PowerShell script demonstrates advanced techniques including shellcode injection, dynamic function invocation, and PowerShell script obfuscation. Let's break down its components:
 
 
